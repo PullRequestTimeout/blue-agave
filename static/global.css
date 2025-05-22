@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'Las Flores';
+	font-weight: 400;
+	font-style: normal;
+	src:
+		url('/fonts/LasFlores-Regular.woff2') format('woff2'),
+		url('/fonts/LasFlores-Regular.woff') format('woff');
+	font-display: swap;
+}
+
+/* resets */
+
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
