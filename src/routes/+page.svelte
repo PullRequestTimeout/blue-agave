@@ -1,3 +1,15 @@
+<!-- SEO -->
+<svelte:head>
+	<title>Blue Agave Tequila Grill | Tequila & Tacos in Rossland, BC</title>
+	<meta
+		name="description"
+		content="
+
+    Blue Agave Tequila Grill is a restaurant located in Rossland, BC, specializing in tequila and tacos. We offer a unique dining experience with a wide selection of tequila and delicious taco options. Join us for a memorable meal!"
+	/>
+	" />
+</svelte:head>
+
 <main>
 	<div>
 		<h1>Blue <img src="/logo.png" alt="Blue Agave Logo" />Agave</h1>
